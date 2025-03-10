@@ -1,4 +1,4 @@
-£ Exploring Mushrooms
+# Exploring Mushrooms
 
 When asked to think of a mushroom, you might imagine the following:
 
